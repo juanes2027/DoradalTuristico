@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >DoradalTuristico</string>
+    <string name="username" >Benutzername</string>
+    <string name="password"> Kennwort</string>
+    <string name="login">Login</string>
+    <string name="register" >Registrieren</string>
+    <string name="create_account" >Konto erstellen</string>
+    <string name="email" >E-Mail</string>
+    <string name="password_repeat">Passwort wiederholen</string>
+    <string name="invalid_data" >invalide Daten</string>
+    <string name="invalid_username"> Mangelnde Benutzernamen </string>
+    <string name="invalid_password">Foul Kennwort</string>
+    <string name="invalid_email">FFoul E-mail</string>
+    <string name="password_does_not_match">Kennwort stimmt nicht überein</string>
+    <string name="register_error">Fehler bei der Registrierung</string>
+    <string name="cancel">ZURÜCK</string>
+    <string name="myProfile">Profil</string>
+    <string name="close_session" >Logout</string>
+    <string name="Main" >Main</string>
+    <string name="bchdbfh">
+
+    Doradal ist ein Dorf von Antioquia, die in der Mitte des kleinen Kuchen befindet, verfügt über schöne Touristenattraktionen ,
+    natürliche Orte, an Doradal kann Vielfalt von Flora und Fauna, viele Wildarten , unter anderem finden
+    Doradal hat auch einige Sehenswürdigkeiten von großer Bedeutung für die Gemeinschaft, weil sie eine Form von sind
+    Wirtschaft zurückzuführen auf die Entwicklung und die Schaffung von mehr attraktive Orte
+    In dem in unserer Gemeinde zeigen alle Denkmäler der bewohnten Spezies gezeigt.
+    </string>
+    <string name="REGISTRO"> REGISTRIEREN</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+

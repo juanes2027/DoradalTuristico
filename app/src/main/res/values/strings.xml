@@ -1,0 +1,31 @@
+
+<resources>
+<string name="app_name">DoradalTuristico</string>
+<string name="username" >Nombre de Usuario</string>
+<string name="password">Contraseña</string>
+<string name="login">Iniciar Sesión</string>
+<string name="register" >Registrarse</string>
+<string name="create_account" >Crear Cuenta</string>
+<string name="email" >Correo Electrónico</string>
+<string name="password_repeat">Repetir Contraseña</string>
+<string name="invalid_data" >Datos Inválidos</string>
+<string name="invalid_username">Falta nombre de usuario </string>
+<string name="invalid_password">Falta contraseña</string>
+<string name="invalid_email">Falta correo</string>
+<string name="password_does_not_match">Contraseña no coincide</string>
+<string name="register_error" >Error en el registro</string>
+<string name="cancel" >CANCELAR</string>
+<string name="myProfile">Mi Perfil</string>
+<string name="close_session" >Cerrar Sesión</string>
+<string name="Main" >Main</string>
+    <string name="bchdbfh">
+
+
+        DORADAL es un corregimiento de Antioquia que esta ubicado en el magdalena medio, cuenta con hermosos lugares turísticos,
+        lugares naturales,En Doradal podemos encontrar diversidad de flora y fauna, muchas especies silvestres, entre otros
+        Doradal también cuenta con diversos sitios turísticos de gran importancia para la comunidad, ya que son una forma de
+        economía que atribuye a la elaboración y creación de lugares mas atractivos
+        en los cuales se puedan mostrar diversos monumentos de las especies mas habitadas en nuestro corregimiento.
+    </string>
+    <string name="REGISTRO">REGISTRARSE</string>
+</resources>
